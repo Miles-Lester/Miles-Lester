@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software engeneering
 - 💞️ I’m looking to collaborate on anything fun and meaningful
 - 📫 How to reach me ... (I should not forget to update that later)
-- 😄 Pronouns: Thou/Thee/Ye
+- 😄 Pronouns: Thou/Thee
 - ⚡ Fun fact: I'm not a bad slime, you know. I promise !
 
 <!---
